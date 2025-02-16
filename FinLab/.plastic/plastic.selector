@@ -1,4 +1,0 @@
-repository "FinLab_1@unity_BF8CF4369BFAA8517CF3@cloud"
-  path "/"
-    br "/main"
-    co "/main"
